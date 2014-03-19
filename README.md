@@ -4,11 +4,11 @@ Division of Labor
 
 Charlie: Putting blackjack logic into UI
 
-Jeffrey: 
+Jeffrey: GUI
 
-Kevin: 
+Kevin: Working on blackjack AI/logic
 
-Eric: 
+Eric: Betting System
 
 casino
 ======
